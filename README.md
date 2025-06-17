@@ -1,4 +1,6 @@
 # DiamondBank-OG
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSKBotNL%2FDiamondBank-OG.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FSKBotNL%2FDiamondBank-OG?ref=badge_shield)
+
 
 A free and open source Diamond Economy plugin for Spigot inspired by [The Diamond Bank](https://www.spigotmc.org/resources/the-diamond-bank.72020/).\
 Maintained for TrueOG.
@@ -30,3 +32,7 @@ diamondbank-og.pay\
 diamondbank-og.compress\
 diamondbank-og.setbankbalance\
 diamondbank-og.admin
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSKBotNL%2FDiamondBank-OG.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSKBotNL%2FDiamondBank-OG?ref=badge_large)
